@@ -11,5 +11,7 @@ or
 
 ./workspacechanger.py bwd
 
+You can bind this command to a specific key or mousebutton to interact easier with your Workspaces. 
+
 Tested with Antergos Linux and KDE Plasma 5.
 
