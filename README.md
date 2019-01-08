@@ -5,11 +5,11 @@ Written in Python3.
 
 Use in the commandline/terminal:
 
-./workspacechanger.py fwd
+./.workspacechanger.py fwd
 
 or
 
-./workspacechanger.py bwd
+./.workspacechanger.py bwd
 
 You can bind this command to a specific key or mousebutton to interact easier with your Workspaces. 
 
